@@ -1,4 +1,4 @@
-# Factch-API
+# Fetch-API
 Fiz um pequeno projeto para entender conceitos sobre a Fetch API, usando API VIACEP.
 
 Entendendo mais afundo esses conceitos: 
